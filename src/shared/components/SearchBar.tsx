@@ -15,7 +15,7 @@ export const SearchBar = ({
     //deben tener una tarea puntual y especifica
     const timeoutId = setTimeout(() => {
       onQuery(query);
-    }, 700);
+    }, 1000);
     //onQuery(query);
 
     return () => {

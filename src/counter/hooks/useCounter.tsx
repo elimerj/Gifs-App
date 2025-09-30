@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState } from 'react';
 
 export const useCounter = (initialValue: number = 10) => {
   const [counter, setCounter] = useState(initialValue);
@@ -6,7 +6,7 @@ export const useCounter = (initialValue: number = 10) => {
   const handleAdd = () => {
     setCounter(counter + 1);
   };
-  const handleSubtrac = () => {
+  const handleSubtract = () => {
     if (counter > 1) setCounter((prevState) => prevState - 1);
   };
   const handleReset = () => {
@@ -17,9 +17,9 @@ export const useCounter = (initialValue: number = 10) => {
     //Values
     counter,
 
-    //Methos /Actions
+    //Methods /Actions
     handleAdd,
-    handleSubtrac,
+    handleSubtract,
     handleReset,
   };
 };
