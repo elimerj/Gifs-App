@@ -2,6 +2,22 @@
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
+# Gifs App
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx/deploy-status)](https://gifs-app-ts.netlify.app/)
+
+**Live Demo:** https://gifs-app-ts.netlify.app/
+
+## Stack
+- Vite + React
+- Fetch a Giphy API
+
+## Variables de entorno
+Crea un archivo `.env` local con:
+
+
+https://gifs-app-ts.netlify.app/
+
 Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
