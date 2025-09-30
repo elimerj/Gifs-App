@@ -4,7 +4,7 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 # Gifs App
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/BADGE_ID/deploy-status)](https://app.netlify.com/sites/gifs-app-ts/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7188b5ce-a95d-49ea-b201-96e2f09ced76/deploy-status)](https://app.netlify.com/projects/gifs-app-ts/deploys)
 
 **Live Demo:** [https://gifs-app-ts.netlify.app](https://gifs-app-ts.netlify.app)
 
