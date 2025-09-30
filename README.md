@@ -4,9 +4,9 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 # Gifs App
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx/deploy-status)](https://gifs-app-ts.netlify.app/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/BADGE_ID/deploy-status)](https://app.netlify.com/sites/gifs-app-ts/deploys)
 
-**Live Demo:** https://gifs-app-ts.netlify.app/
+**Live Demo:** [https://gifs-app-ts.netlify.app](https://gifs-app-ts.netlify.app)
 
 ## Stack
 - Vite + React
@@ -14,9 +14,6 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 ## Variables de entorno
 Crea un archivo `.env` local con:
-
-
-https://gifs-app-ts.netlify.app/
 
 Currently, two official plugins are available:
 
